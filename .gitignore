@@ -1,0 +1,3 @@
+# === This is a .gitignore file ===
+# Ignore Pyc Files
+*.pyc
