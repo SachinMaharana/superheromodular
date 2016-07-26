@@ -58,6 +58,6 @@ def _save_items():
 	f.write(json.dumps(_items))
 	f.close()
 
-init()
+# init()
 # # remove_superhero("Joker","Circus")
-add_superhero("Joker","Circus")
+# add_superhero("Joker","Circus")
