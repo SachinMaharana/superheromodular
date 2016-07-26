@@ -1,0 +1,24 @@
+1. track of superheros
+2. for each hero == nickname, location
+   list of locations where superhero can be held
+   location and description
+3.add hero
+4. hero dies so remove
+5.two reports= current avaliable superhero
+and how many superhero needed
+Add a new superhero to the inventory(name, location)
+
+Remove an item from the inventory(name, location)
+
+Generate a report of the current inventory items(current superhero)
+
+Generate a report of the inventory items that need to be re-ordered
+
+
+Quit the program
+
+storing info
+interaction with user
+generate reports
+
+list of superhero and locations
